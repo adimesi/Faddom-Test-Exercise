@@ -7,14 +7,17 @@
     AWS_REGION
 
 2. run the  backend side:
-    cd ./project/backend
+    cd ./backend
     npm install
     node server.js
 
 3. run the frontend side:
-    cd ./project/frontend
+    cd ./frontend
     npm install
     npm run dev
+
+4. Open a browser and navigate to 'http://localhost:3001'
+
 
 
 ## Sources  and commands :
